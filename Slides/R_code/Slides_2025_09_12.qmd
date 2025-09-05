@@ -32,6 +32,15 @@ title-slide-attributes:
 | Mistakes   |   ?   | 
 
 
+## The reference
+most things comes from this book
+
+<br>
+<br>
+
+[Better Code Better Science (Poldrack R.)](https://poldrack.github.io/BetterCodeBetterScience/frontmatter.html)
+
+
 
 ## Three main topics
 
@@ -74,6 +83,7 @@ title-slide-attributes:
 
 ## Next steps (?)
 
+- start to use the three principles (github, good programming, LLM)
 - from now on, every project start with a repo in github.
 - writing together a guide on _"how to be a bad programmer"_ (collaboration via github)
 - work together on a small project _"ASSR-ref"_
