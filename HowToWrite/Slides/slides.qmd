@@ -1,0 +1,39 @@
+---
+title: "How to Write Terrible Code"
+subtitle: "A beginner guide to bad programming"
+format: revealjs
+theme: white
+css: custom_comic.css
+---
+
+## Introduction (1/2)
+
+<section style="font-size: 26px;">
+
+This guide, written by the Coding Group of the ONDA Lab, is **a humorous collection of bad programming habits**.
+While countless guides explain how to write good code, we realized that another way to learn is by looking at what not to do. After all, most of us (certainly we, at least) are naturally prone to becoming bad programmers.
+
+So instead of only focusing on the “right” way, this guide highlights the habits you really shouldn’t have (but probably already do).
+
+<br>
+
+**Enjoy!**
+
+<br>
+
+_P.S. You might think that writing this makes us excellent programmers. The truth? We’re not, but we’re trying to unlearn these bad habits!_
+
+
+<div class="download-button">
+<em> P.P.S. Click here to </em> <a href="?print-pdf" target="_blank">📄 Download the PDF version</a>
+</div>
+
+
+</section>
+
+## 1. Write your code in a single long script
+
+_Unless you have a very short task, a very long script is often difficult to reuse, to mantain, and to share._
+
+
+
