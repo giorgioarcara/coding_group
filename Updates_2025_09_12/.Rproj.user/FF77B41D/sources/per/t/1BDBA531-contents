@@ -1,0 +1,79 @@
+---
+title: "Coding Group Meeting"
+author: "Giorgio Arcara"
+format: revealjs
+editor: source
+date: "12/05/2025"
+incremental: true
+title-slide-attributes:
+  data-background-image: Figures/ONDA_logo_v12.png
+  data-background-size: 300px
+  data-background-position: center 90%
+---
+
+
+## Aim
+
+**Improve coding habits of ONDA Lab & Friends** to:
+
+<br>
+
+- improve robustness/transparency of practices.
+- reduce errors/mistakes.
+- _reduce_ time spent in useless coding.
+
+## the starting situation
+| Item   | Situation |
+|:--------|:-------:|
+| Coding |   +++  | 
+| Sharing |  ++   | 
+| Collaborating   |   ~   | 
+| Maintaining   |   -   | 
+| Mistakes   |   ?   | 
+
+
+
+## Three main topics
+
+1. **github**
+2. **good practices in programming**
+3. **LLM in programming**
+
+
+
+## What I've learned so far (github) (1/2)
+
+- github is a useful code repository
+- github is a _time machine_ for what you did on your code
+- github allow other to experiment with your code without the risk of mess
+- when github you tend to code in more structured and organized way.
+- github has tons of options/commands, but you can work effectively 99% of the time with only with 3/4.
+
+
+## What I've learned so far (github) (2/2)
+
+- github is counterintuitive
+- the difficult part of using github is not the commands/coding, is changing your _philosophy_ on how to code.
+- using github is like riding the bicycle.
+- after you start to routinely use github, your (programming life become easie).
+
+## What I've learned so far (good programming)
+
+- we are naturally prone to code in a _suboptimal way_.
+- some good habits can be a bit counterintutive especially on the importance of:
+  - writing modular **functions**, even if only for one specific study and with some hard coding.
+  - refactoring (which may work well only if you use lots of functions)
+  - including lots of checks and _tests_.
+  
+## LLM in programming
+
+- LLM is a unvaluable resource for programming
+- LLM should be used used to _understand_ the code
+- LLM can be used (and probably should), but include lots of tests and **always** use code you understand.
+  
+
+## Next steps (?)
+
+- writing together a guide on _"how to be a bad programmer"_ (collaboration via github)
+- write
+  
