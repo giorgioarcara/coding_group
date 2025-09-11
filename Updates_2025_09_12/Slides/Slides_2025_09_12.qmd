@@ -8,7 +8,8 @@ incremental: true
 title-slide-attributes:
   data-background-image: Figures/ONDA_logo_v12.png
   data-background-size: 300px
-  data-background-position: center 90%
+  data-background-position: center 85%
+css: custom_lato.css
 ---
 
 
@@ -22,7 +23,8 @@ title-slide-attributes:
 - reduce errors/mistakes.
 - _reduce_ time spent in useless coding.
 
-## the starting situation
+## The starting situation
+
 | Item   | Situation |
 |:--------|:-------:|
 | Coding |   +++  | 
@@ -66,7 +68,7 @@ most things comes from this book
 - using github is like riding the bicycle.
 - after you start to routinely use github, your (programming life become easie).
 
-## What I've learned so far (good programming)
+## What I've learned so far (good habits)
 
 - we are naturally prone to code in a _suboptimal way_.
 - some good habits can be a bit counterintutive especially on the importance of:
@@ -79,7 +81,19 @@ most things comes from this book
 - LLM is a unvaluable resource for programming
 - LLM should be used used to _understand_ the code
 - LLM can be used (and probably should), but include lots of tests and **always** use code you understand.
-  
+
+## But ...
+
+![](Figures/AI_to_learn1.png){width=300}
+
+## Sometimes completely contradictory suggestions!
+
+![](Figures/AI_to_learn2.png){width=300}
+
+## Take home message on LLM
+
+Beware when asking general questions you cannot test immediately.
+(with simple coding question, you know if it works or not)
 
 ## Next steps (?)
 
